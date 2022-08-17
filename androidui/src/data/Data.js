@@ -1,4 +1,4 @@
-[
+const Data = [
     {
         "id":1,
         "message":"Wuz Up! Lorem ipsum is simply dummy text of"
@@ -20,3 +20,5 @@
         "message":"Hi, i want to see you!"
     }
 ]
+
+export default Data;
